@@ -47,10 +47,5 @@ The **Movie Management System** is a C++ program designed to allow users to stor
 - **Search for a Movie**: Look up a movie by its title.
 - **File Storage**: Saves movie lists and rankings in text files.
 
-## Future Improvements
-- Implement a **Graphical User Interface (GUI)** for better usability.
-- Expand **database support** to store movie data persistently.
-- Add **API integration** to fetch real-time movie ratings.
-
 ## Author
 **loldwyer**
